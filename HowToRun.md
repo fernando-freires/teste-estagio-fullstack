@@ -3,7 +3,7 @@ This project was made with Angular V13 for the Frontend, as API i used json-serv
 
 ###  How To run the project:
 * Open the json server folder and the library_system folder in vsCode terminals (or prompt/ Windows Terminal/ Windows powershell, ect.)
-* In the library_system folder type on terminal: npm i 
+* In the library_system folder type on terminal: 'npm i' 
 It will install all dependencies used in the project.
 
 #### To run json-server:
