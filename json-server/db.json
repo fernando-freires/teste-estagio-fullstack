@@ -1,0 +1,62 @@
+{
+  "productList": [
+    {
+      "isbn": "582",
+      "book_name": "Harry Potter e a Ordem da Fênix",
+      "author": "J. K. Rowling",
+      "number_pages": "470",
+      "copies": "1200",
+      "id": 2
+    },
+    {
+      "isbn": "128",
+      "book_name": "Harry Potter e o Enígma do Príncipe",
+      "author": "J. K. Rowling",
+      "number_pages": "620",
+      "copies": "100",
+      "id": 3
+    },
+    {
+      "isbn": "67859",
+      "book_name": "Harry Potter e a Câmara Secreta",
+      "author": "J. K. Rowling",
+      "number_pages": "630",
+      "copies": "420",
+      "id": 4
+    },
+    {
+      "isbn": "0268744",
+      "book_name": "Harry Potter e as Relíquias da Morte",
+      "author": "J. K. Rowling",
+      "number_pages": "620",
+      "copies": "5000",
+      "id": 5
+    },
+    {
+      "isbn": "999999",
+      "book_name": "Harry Potter e o Cálice de Fogo",
+      "author": "J. K. Rowling",
+      "number_pages": "800",
+      "copies": "1450",
+      "id": 6
+    },
+    {
+      "isbn": "0258",
+      "book_name": "Harry Potter e a Pedra Filosofal",
+      "author": "J. K. Rowling",
+      "number_pages": "350",
+      "copies": "1800",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
